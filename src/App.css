@@ -1,0 +1,21 @@
+.App{
+    
+    background: #3F3B6C;
+    height: 100vh;
+    padding-top: 5rem;
+}
+.Card{
+    width: fit-content;
+   
+    background: #624F82;
+    padding: 2rem;
+    color:#FFFF;
+    margin:auto;
+}
+button{
+    background-color: #A3C7D6;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    width: 100%;
+    margin-top: 1rem;
+}
